@@ -1,4 +1,4 @@
-# LaTex 的安装与配置
+# LaTex 的安装配置
 
 
 ## 一、TeXLive 下载 
@@ -63,6 +63,6 @@ pdflatex -v //查看 pdfTeX 的版本信息
     www.qinnian.xyz
 \end{document}
 ```
-按 `Ctrl+S` 完成编译加保存功能
+完成编译并运行
 
 ![](https://raw.githubusercontent.com/qinnian/FigureBed/master/20200213100024.png)
