@@ -8,11 +8,9 @@
 - [ChinaTeX 视频教程9集](https://www.bilibili.com/video/av90051843)
 
 ## 钦念笔记：
-<center class="half">
-微信公众号 **钦念博客**
-</center>
+<center>微信公众号 **钦念博客** </center><br>
 
-<center class="half">
+<center>
 
 ![](https://raw.githubusercontent.com/qinnian/FigureBed/master/20200222100924.jpg)
 
