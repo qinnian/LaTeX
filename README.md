@@ -8,13 +8,12 @@
 - [ChinaTeX 视频教程9集](https://www.bilibili.com/video/av90051843)
 
 ## 钦念笔记：
-<center>微信公众号 **钦念博客** </center><br>
+<center>微信公众号 **钦念博客** </center>
 
-<center>
+<div style="align: center"><img src="https://raw.githubusercontent.com/qinnian/FigureBed/master/20200222100924.jpg"/></div>
 
-![](https://raw.githubusercontent.com/qinnian/FigureBed/master/20200222100924.jpg)
+<div align=center><img src="https://raw.githubusercontent.com/qinnian/FigureBed/master/20200222100924.jpg" width="30%" height="30%"></div>
 
-</center>
 
 - [01 LaTeX 的基本介绍](https://github.com/qinnian/LaTeX/blob/master/%E3%80%90LaTeX%E3%80%91%E9%92%A6%E5%BF%B5%E5%8D%9A%E5%AE%A2/01%20LaTeX%20%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BB%8B%E7%BB%8D.md)
   
@@ -23,6 +22,6 @@
   
 - [04 LaTeX 的数学公式](https://mp.weixin.qq.com/s/MT6X76R6vKN-V7GTHnUGFw)
 
-- [05 LaTeX 的文档元素]()
+- [05 LaTeX 的文档元素](https://github.com/qinnian/LaTeX/blob/master/%E3%80%90LaTeX%E3%80%91%E9%92%A6%E5%BF%B5%E5%8D%9A%E5%AE%A2/05%20LaTeX%20%E7%9A%84%E6%96%87%E6%A1%A3%E5%85%83%E7%B4%A0.md)
 
-- [06 LaTeX 的排版样式]()
+- [06 LaTeX 的样式设定](https://github.com/qinnian/LaTeX/blob/master/%E3%80%90LaTeX%E3%80%91%E9%92%A6%E5%BF%B5%E5%8D%9A%E5%AE%A2/06%20LaTeX%20%E7%9A%84%E6%A0%B7%E5%BC%8F%E8%AE%BE%E5%AE%9A.md)
