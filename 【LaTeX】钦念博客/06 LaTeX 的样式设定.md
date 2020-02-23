@@ -1,4 +1,6 @@
-### 字体选择
+# LaTeX 的样式设定
+
+## 一、字体选择
 
 下⾯代码⽤于设置正⽂部分中英⽂的默认字体分别为 `Roman Times New` 和 `楷体-简` （Windows 上写楷体即可）
 
@@ -12,7 +14,7 @@
 \setmainfont{Times New Roman}
 ```
 
-### 六、字体大小
+### 二、字体大小
 
 通常使⽤ `\zihao{数字}` 的⽅式来改变字体⼤⼩，数字的⼤⼩表⽰该部分⽂字为⼏号字体。
 ```latex
@@ -39,8 +41,16 @@
 ```latex
 {\zihao{3} Hello World}
 ```
+### 字体颜色
 
-## 七、页面设置
+调用 color 或 xcolor 宏包后，我们就可以用如下命令切换颜色
+
+```latex
+\large\sffamily
+{\color{red} 红色} \\
+{\color{blue} 蓝色}
+```
+## 三、页面设置
 
 ### 纸张设置
 
@@ -70,3 +80,28 @@ LaTeX 中⽤ `\pagestyle` 来设置⻚眉⻚脚，默认为⻚眉显⽰ 章节�
 ```latex
 \pagestyle{empty}
 ```
+
+### 四、间距
+
+#### 水平间距
+
+LATEX 默认为将单词之间的“空格”转化为水平间距。如果需要在文中手动插入额外的水平间距，可使用 \hspace 命令
+
+```latex
+This\hspace{1.5cm}is a space of 1.5 cm.
+```
+
+#### 垂直间距
+
+```latex
+A paragraph.
+\vspace{2ex}
+Another paragraph.
+```
+
+### 五、超链接
+
+```latex
+\href{⟨url⟩}{⟨text⟩}
+```
+
